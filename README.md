@@ -12,4 +12,4 @@ slick3.0を使ったDB操作
 * mysql
 
 # Tests
-ない
+なし
